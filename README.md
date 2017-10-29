@@ -1,2 +1,2 @@
 # AMA
-Ask and tell me anything
+Ask and tell me anything about techno
